@@ -50,13 +50,21 @@ Context API for theme management
 
 🏗️ Project Structure
 text
+
 src/
+
 ├── components/
+
 │   └── FloatingCard.tsx    # Reusable animated card component
+
 ├── context/
+
 │   └── ThemeContext.tsx    # Theme management with Context API
+
 ├── App.tsx                  # Main landing page
+
 └── main.tsx                 # Application entry
+
 ✨ Unique Selling Points
 Visual Appeal
 
